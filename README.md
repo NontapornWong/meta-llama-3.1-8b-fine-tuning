@@ -305,26 +305,8 @@ marketing-content-generator/
 ├── requirements.txt                # Dependencies
 ├── training_data.jsonl            # Training examples
 ├── models/
-│   ├── my-llama-3.1-8b-local/     # Base model
-│   └── marketing_lora_finetuned/   # LoRA adapters
-├── docs/
-│   ├── API.md                      # API documentation
-│   └── DEPLOYMENT.md               # Deployment guide
-└── tests/
-    ├── test_api.py                 # API tests
-    └── test_model.py               # Model tests
-```
-
-### Testing
-```bash
-# Test API endpoints
-python -m pytest tests/test_api.py
-
-# Test model loading
-python -m pytest tests/test_model.py
-
-# Manual API test
-python tests/manual_api_test.py
+    ├── my-llama-3.1-8b-local/     # Base model
+    └── marketing_lora_finetuned/   # LoRA adapters
 ```
 
 ## 🙏 Acknowledgments
