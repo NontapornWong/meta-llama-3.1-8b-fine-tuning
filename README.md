@@ -16,7 +16,6 @@ An AI-powered marketing content generator built with fine-tuned Llama 3.1 8B, fe
 - [Model Details](#model-details)
 - [Performance](#performance)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
 
 ## 🎯 Overview
 
