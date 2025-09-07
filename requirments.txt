@@ -1,0 +1,36 @@
+# Data Processing
+pandas==2.1.0
+numpy==1.24.3
+jsonlines==3.1.0
+
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+selenium==4.11.2
+
+# Core ML and AI Libraries
+torch>=2.0.0
+transformers>=4.30.0
+peft>=0.4.0
+bitsandbytes>=0.39.0
+accelerate>=0.20.0
+
+# API Framework
+fastapi>=0.104.1
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# UI Framework
+gradio>=4.0.0
+
+# Data Processing
+datasets>=2.12.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# HTTP Requests
+requests>=2.28.0
+
+# Utilities
+python-multipart>=0.0.6
+python-json-logger>=2.0.0
